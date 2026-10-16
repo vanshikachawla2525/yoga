@@ -1,0 +1,6 @@
+{
+  "name": "Stress Buster Station",
+  "description": "Short stress-reset sessions, sound therapy and holistic bodywork in Gurugram. Experience Five Minutes of Quiet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
